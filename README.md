@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Vue JS, React JS, Java**
-
 - 📫 How to reach me **admin@enforcers.lk**
 
 <h3 align="left">Connect with me:</h3>
