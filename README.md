@@ -30,6 +30,6 @@
 <br>
 
 <div align="center">
-	<a href="https://avatars.githubusercontent.com/u/77945442?v=4" target="_blank"><img src="icon.png" width="40">
-	<h4>Damidu Sandipa @ 2024</h4></a>
-</div>
+	<a href="https://media.discordapp.net/attachments/897836638212870214/1196570451820941334/77945442.png?ex=65b81c12&is=65a5a712&hm=fa4095f4fcfd3c2c7f9712f4d008347cd83a992f0b32be093f895b72edd7f8fd&=&format=webp&quality=lossless" target="_blank"><img src="icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4></a>
+</div>	
