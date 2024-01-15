@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/damidu13636703" target="blank"><img src="https://img.shields.io/twitter/follow/damidu13636703?logo=twitter&style=for-the-badge" alt="damidu13636703" /></a> </p>
 
-- 🔭 I’m currently working on [Enforcers.lk and Niolla PVT (LTD)](enforcers.lk)
+- 🔭 I’m currently working on [Niolla PVT (LTD) and Enforcers.lk](enforcers.lk)
 
 - 🌱 I’m currently learning **Java**
 
